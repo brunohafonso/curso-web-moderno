@@ -4,9 +4,9 @@
 O tipo dos objetos é function, as classes também
 
 ```javascript
-    console.log(typeof Object);
-    // imprime function
-    class Produto {}
-    console.log(typeof Produto);
-    // imprime function também
+console.log(typeof Object);
+// imprime function
+class Produto {}
+console.log(typeof Produto);
+// imprime function também
 ```

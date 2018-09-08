@@ -9,10 +9,10 @@ comentários servem como anotações no código para deixar lembretes/explicaç�
 
 ```javascript
 /* 
-    eu sou um comentário 
-    de 
-    varias 
-    linhas 
+eu sou um comentário 
+de 
+varias 
+linhas 
 */
 ```
 
