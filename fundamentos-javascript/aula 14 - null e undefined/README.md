@@ -1,5 +1,5 @@
 # fundamentos Javascript aula 10
-## null e indefined
+## null e undefined
 
 Quando trabalhando com objetos temos a possibilidade
 de atribuição por referencia, ou seja, no exemplo abaixo tanto a quanto b terão referencia para a mesma alocação de memória e alterando qualquer um deles o valor será alterado para os dois.
