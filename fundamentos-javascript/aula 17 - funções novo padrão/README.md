@@ -1,4 +1,4 @@
-# fundamentos javascript aula 1
+# fundamentos javascript aula 17
 ## funções novo padrão ecma2015
 
 Nova sintaxe do ecma2015

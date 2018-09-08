@@ -1,4 +1,4 @@
-# fundamentos Javascript aula 10
+# fundamentos Javascript aula 11
 ## boolean
 
 Declarando uma variavel do tipo bool e passando o valor literal

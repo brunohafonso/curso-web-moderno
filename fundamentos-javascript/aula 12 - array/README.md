@@ -1,4 +1,4 @@
-# fundamentos Javascript aula 10
+# fundamentos Javascript aula 12
 ## array
 
 Segundo boas praticas os arrays devem receber valores todo do mesmo tipo e arrays são do tipo Object

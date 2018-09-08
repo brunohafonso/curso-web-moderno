@@ -1,4 +1,4 @@
-# fundamentos Javascript aula 10
+# fundamentos Javascript aula 16
 ## funções
 
 Funções em javascript podem ter retorno ou não assim como podem ou não receber parametros.

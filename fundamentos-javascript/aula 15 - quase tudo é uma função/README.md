@@ -1,4 +1,4 @@
-# fundamentos Javascript aula 10
+# fundamentos Javascript aula 15
 ## quase tudo é uma função
 
 O tipo dos objetos é function, as classes também
