@@ -1,4 +1,4 @@
-# fundamentos javascript aula 19
+# fundamentos javascript aula 20
 ## hoisting
 
 Hoisting é içamento de variaveis, ou seja, declarando uma variavel antes dela ser declarada não gera erro apenas faz com que ela retorna com valor undefined, mas isso só funciona com var
