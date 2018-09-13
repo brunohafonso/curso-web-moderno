@@ -1,4 +1,4 @@
-# fundamentos javascript aula 24
+# fundamentos javascript aula 25
 ## operadores de destructuring
 
 novo recurso do es2015
