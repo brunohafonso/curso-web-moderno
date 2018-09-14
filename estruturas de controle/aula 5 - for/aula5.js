@@ -1,4 +1,4 @@
- // Estrutura semelhante ao for reproduzida com while
+// Estrutura semelhante ao for reproduzida com while
 
 let contador = 1
 
