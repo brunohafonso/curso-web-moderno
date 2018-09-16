@@ -30,3 +30,35 @@ Para resolvermos isso usamos o bind, através dele podemos definir qual o objeto
 const falarPessoa = pessoa.falar.bind(pessoa);
 falarPessoa(); // imprime Bom Dia! conforme esperado
 ```
+Outro exemplo de variação do this 
+
+```javascript
+function Pessoa() {
+    this.idade = 0;
+
+    setInterval(function() {
+        this.idade++;
+        console.log(this.idade);
+    }.bind(this), 1000); 
+}
+
+new Pessoa;
+```
+
+Obs: sem a função bind só seria impresso no console NaN, 
+usando o bind ele exerga o contexto que nós realmente queremos.
+
+Outra forma de resolver o mesmo problema
+
+```javascript
+function Pessoa() {
+    this.idade = 0;
+    const self = this;
+    setInterval(function() {
+        self.idade++;
+        console.log(self.idade);
+    }, 1000); 
+}
+
+new Pessoa;
+```
