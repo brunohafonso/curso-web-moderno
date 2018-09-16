@@ -1,5 +1,5 @@
-# funções - aula 3
-## parametros variados
+# funções - aula 4
+## parametros padrões
 
 Primeira forma de setar valores padrões, mas que tem alguns problemas
 
